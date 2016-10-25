@@ -10,7 +10,8 @@ be available when the application is started soon after previous shutdown.
 
 ## Usage
 
-Binaries are available from Clojars repository.
+Binaries are available from [Clojars repository](https://clojars.org/).
+
 [![Clojars Project](https://img.shields.io/clojars/v/lupapiste/jmx-server.svg)](https://clojars.org/lupapiste/jmx-server)
 
 ### Java
